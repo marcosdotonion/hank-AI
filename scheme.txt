@@ -1,0 +1,9 @@
+/FULLBUILDPROJECT
+│
+├── main.py                  # Main Python script (replaces the Bash script)
+├── personality.py           # Contains Hank's personality and system prompts
+├── memory.json              # JSON file for storing important information
+├── output.md                # Markdown file for saving responses
+├── tts.py                   # Handles text-to-speech functionality
+├── ollama_client.py         # Handles interactions with Ollama
+└── utils.py                 # Utility functions (e.g., file I/O, logging)
