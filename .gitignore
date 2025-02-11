@@ -1,0 +1,26 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+myenv/
+venv/
+*.env
+
+# Ollama and output files
+output.md
+memory.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files (if using VSCode or PyCharm)
+.vscode/
+.idea/
+
+# Other unnecessary files
+*.log
+
